@@ -3,9 +3,10 @@ class Cat {
 
 
     shout() {
-        echo "connard";
+        rideUnicorn();
     }
 
+    rideUnicorn();
 
 
 
