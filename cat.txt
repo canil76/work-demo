@@ -3,10 +3,10 @@ class Cat {
 
 
     shout() {
-        rideUnicorn();
+        echo "doctype";
     }
 
-    rideUnicorn();
+    rideUnicorn($doctype);
 
 
 
