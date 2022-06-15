@@ -1,8 +1,18 @@
 class Cat {
     int age;
 
+
     shout() {
-        echo 'salut';
+        getCuteCatNoises();
+        getCatNoises();
+    }
+
+    getCuteCatNoises() {
+        echo "yes";
+    }
+
+    getCatNoises() {
+        echo "no";
     }
 
 
