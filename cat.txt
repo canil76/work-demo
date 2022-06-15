@@ -2,7 +2,7 @@ class Cat {
     int age;
 
     shout() {
-        echo 'salut';
+        echo 'salute';
     }
 
 
