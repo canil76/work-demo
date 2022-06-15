@@ -4,6 +4,9 @@ class Cat {
     shout() {
         echo 'salut';
     }
+    ride() {
+        licorne;
+    }
 
 
 }
