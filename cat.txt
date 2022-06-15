@@ -3,7 +3,7 @@ class Cat {
 
 
     shout() {
-        echo "salute";
+        echo "connard";
     }
 
 
