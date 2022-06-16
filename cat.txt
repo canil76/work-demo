@@ -3,11 +3,11 @@ class Cat {
 
 
     shout() {
-        echo "licorne";
+        echo "chat";
     }
 
     rideUnicorn($doctype);
-
+    rideChat();
 
 
 }
