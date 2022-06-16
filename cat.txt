@@ -9,5 +9,5 @@ class Cat {
     rideUnicorn($doctype);
     rideChat();
 
-
+    rideLicorne();
 }
