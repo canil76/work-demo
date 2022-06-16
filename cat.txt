@@ -3,7 +3,7 @@ class Cat {
 
 
     shout() {
-        echo "doctype";
+        echo "licorne";
     }
 
     rideUnicorn($doctype);
